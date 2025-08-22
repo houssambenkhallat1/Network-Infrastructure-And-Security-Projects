@@ -39,6 +39,9 @@ Ce projet pratique, réalisé avec l'outil de simulation Cisco Packet Tracer, a 
 **📚 Fondamentaux Réseau :**
 - 📡 Mise en pratique des concepts de domaine de broadcast et de l'intérêt de la segmentation pour la sécurité et la performance
 
+
+> **➡️ [Voir le rapport détaillé du projet (PDF)](https://github.com/houssambenkhallat1/Network-Infrastructure-And-Security-Projects/blob/72df0f7eb11b8f8247b76dbf33faf23d09c54066/Projet%201.pdf)**
+
 ---
 
 ### 🌍 Projet 2 : Routage Statique Inter-LAN et Accès Internet via NAT
@@ -73,6 +76,9 @@ Ce laboratoire, réalisé sur l'outil de simulation Cisco Packet Tracer, a consi
 
 **🔧 Dépannage Réseau :**
 - 📡 Utilisation de la commande ping pour vérifier la connectivité à chaque étape de la configuration
+
+
+  > **➡️ [Voir le rapport détaillé du projet (PDF)](https://github.com/houssambenkhallat1/Network-Infrastructure-And-Security-Projects/blob/72df0f7eb11b8f8247b76dbf33faf23d09c54066/Projet%202.pdf)**
 
 ---
 
@@ -116,6 +122,8 @@ Ce projet consiste en la conception et le déploiement complet d'un réseau d'en
 - 🖥️ Installation et configuration du rôle IIS (Internet Information Services)
 - 🏢 Déploiement d'un site intranet
 
+- > **➡️ [Voir le rapport détaillé du projet (PDF)](https://github.com/houssambenkhallat1/Network-Infrastructure-And-Security-Projects/blob/72df0f7eb11b8f8247b76dbf33faf23d09c54066/Projet%203.pdf)**
+
 ---
 
 ### 🏰 Projet 4 : Sécurisation d'un Réseau avec une DMZ
@@ -156,6 +164,8 @@ Ce laboratoire porte sur l'ajout d'une zone démilitarisée (DMZ) à un réseau 
 - 🌍 Installation et configuration d'un serveur DNS autoritaire (BIND)
 - 🔒 Génération et déploiement de certificats SSL pour sécuriser les communications en HTTPS
 
+> **➡️ [Voir le rapport détaillé du projet (PDF)](https://github.com/houssambenkhallat1/Network-Infrastructure-And-Security-Projects/blob/72df0f7eb11b8f8247b76dbf33faf23d09c54066/Projet%204.pdf)**
+
 ---
 
 ### 🔐 Projet 5 : VPN et Réseau Invité (Guest LAN)
@@ -189,6 +199,8 @@ Ce projet est divisé en deux parties critiques pour une entreprise moderne : la
 **🚪 Gestion des Accès Invités :**
 - 🔐 Implémentation d'un portail captif exigeant une authentification pour l'accès à Internet
 - ⚙️ Configuration du service DHCP pour le réseau invité
+
+  > **➡️ [Voir le rapport détaillé du projet (PDF)](https://github.com/houssambenkhallat1/Network-Infrastructure-And-Security-Projects/blob/72df0f7eb11b8f8247b76dbf33faf23d09c54066/Projet%205.pdf)**
 
 ---
 
@@ -290,9 +302,9 @@ Internet
 
 Interested in networking and security projects? Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](your-github-url)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssam-benkhallat-088513128/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/houssambenkhallat1)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Houssambenkhallat@gmail.com)
 
 ---
 
